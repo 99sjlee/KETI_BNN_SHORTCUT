@@ -2,7 +2,6 @@
 #include "ervp_printf.h"
 #include "ervp_reg_util.h"
 #include "mem_1_4.h"
-#include "mem_0_4.h"
 #include "sw_1_4.h"
 #include "inst.h"
 #include "ervp_core_id.h"
